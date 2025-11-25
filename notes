@@ -1,0 +1,9 @@
+// //this will only handle get call to /user
+// app.get("/user",(req,res)=>{
+//   res.send({firstName:"Rahul", Lastname:"Rajput"})
+// });
+
+// // this will match all the http method api calls to /test
+// app.use("/test",(req,res)=>{
+//   res.send('Hello World');
+// })
